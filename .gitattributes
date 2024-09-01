@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.md linguist-detectable linguist-documentation=false linguist-vendered=false linguist-generated=false
-*.nvgt linguist-language=angelScript
-*.lng linguist-language=Binary
+*.md linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.txt linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.url linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
