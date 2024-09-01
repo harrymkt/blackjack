@@ -10,7 +10,7 @@ https://github.com/<your_username>/blackjack.git
 ```
 Replace <your_username> with your github username.
 3. Make changes in your forked repository.
-4. Make a poll request.
+4. Make a poll request. For translations, the name of the author as well as contact link would be helpful in the description section of the pull request. Also, make sure to set flag and code for your translation files.
 
 That's it!
 
